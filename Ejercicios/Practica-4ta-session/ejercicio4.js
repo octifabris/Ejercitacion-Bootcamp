@@ -1,0 +1,10 @@
+let nombre = "Octavio";
+let apellido = "Fabris";
+let estudiante = `${nombre} ${apellido}`;
+let estudianteMayus = estudiante.toUpperCase();
+let estudianteMinus = estudiante.toLowerCase();
+let numChar = estudiante.length;
+let primNom = nombre.charAt(0);
+let ultApe = apellido.slice(-1);
+let elim = estudiante.trim();
+let nomContent = estudiante.includes(nombre);

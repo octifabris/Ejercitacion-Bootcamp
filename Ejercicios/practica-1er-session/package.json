@@ -1,0 +1,21 @@
+{
+  "name": "hola-world",
+  "version": "1.0.0",
+  "description": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octifabris/Curso-Open-Bootcamp.git"
+  },
+  "keywords": [
+  ],
+  "author": "Octavio Fabris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octifabris/Curso-Open-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/octifabris/Curso-Open-Bootcamp#readme"
+}
